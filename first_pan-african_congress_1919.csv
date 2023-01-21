@@ -1,10 +1,11 @@
-Event ID,Last Name,First Name,Country,Title,Citation,Notes
+Event ID,Family Name,Given or Other Name,Country,Title,Citation,Notes
 1PanCong,,,France,Chairman of the Committee of Foreign Affairs of the French Chamber,The Pan-African Congress: A Report,
 1PanCong,Archer,John,,Leader of African Political Union; former Mayor of Battersea,,Maloney
 1PanCong,Boutt̩,,,Captain,A Session of the Pan-African Congress,
 1PanCong,Cadet,Eliezer,Haiti,Grand Commissaire in France,Worley and Contee 141,Represented UNIA and The Negro World (Garvey's paper)
 1PanCong,Candace,Gratien,Guadeloupe,chamber of deputies representative,Geiss The Pan-African Movement 238,
-1PanCong,Chapoteau,"""Mme.""",,,A Session of the Pan-African Congress,
+1PanCong,Chapoteau,"""Mme.""
+",,,A Session of the Pan-African Congress,
 1PanCong,Curtis,"""Mrs.""",,,A Session of the Pan-African Congress,
 1PanCong,d'Andrade,,Portuguese colonies,,The Pan-African Congress: A Report,Not sure which Portuguese colony specifically
 1PanCong,Diagne,Blais,Senegal and France,deputy for Senegal in Paris,Geiss The Pan-African Movement 235,
@@ -13,19 +14,23 @@ Event ID,Last Name,First Name,Country,Title,Citation,Notes
 1PanCong,Grossilliere,,Martinque,Deputy from Martinique,A Session of the Pan-African Congress,
 1PanCong,Hope,John,United States,President of Morehouse College,Adejumobi; Contee 24,
 1PanCong,Hunt,Ida Gibbs,United States,,Geiss The Pan-African Movement 238,
-1PanCong,Hunton,Addie,United States,"Author; Founder of the International Council of Women of the Darker Races of the World","Adejumobi; Contee 24; Adi, Pan-Africanism 141",Served with black troops in Frances through the YMCA
+1PanCong,Hunton,Addie,United States,"
+Author; Founder of the International Council of Women of the Darker Races of the World","Adejumobi; Contee 24; Adi, Pan-Africanism 141",Served with black troops in Frances through the YMCA
 1PanCong,Jackson,George,United States,Missionary,Adejumobi; Contee 24,
 1PanCong,Jernagin,William,United States,Pastor; Civil rights activist,Worley and Contee 141,
 1PanCong,King,C. D. B.,Liberia,future president; peace officer,Geiss The Pan-African Movement 238,
 1PanCong,Lagrosilli̬re,,French Antilles,,Geiss The Pan-African Movement 238,
-1PanCong,Logan,Rayford W.,"United States",,Adejumobi; Contee 24,Served in the US Army in France
+1PanCong,Logan,Rayford W.,"United States
+",,Adejumobi; Contee 24,Served in the US Army in France
 1PanCong,Moton,Robert Russa,United States,Tuskegee Institute principal,Geiss The Pan-African Movement 237,
 1PanCong,Plaatje,,South Africa,,Geiss The Pan-African Movement 238,
 1PanCong,Ren̩-Boisneuf,Achille,French Antilles,,"Geiss The Pan-African Movement 238; Adi, Pan-Africanism 145",Also listed as Boisneuf
 1PanCong,Russell,Charles Edward,United States,Writer,Adejumobi; Contee 24,
 1PanCong,Seldon,B.F.,,,A Session of the Pan-African Congress,
 ,Siefried,Jules,France,President of the French National Association for the Rights of Women,,
-1PanCong,Simmons,Roscoe Conklin,"United States",Orator,Adejumobi; Contee 24,
-1PanCong,Spingarn,Joel,United States,"Professor, Columbia University",Adejumobi; Contee 24,
+1PanCong,Simmons,Roscoe Conklin,"United States
+",Orator,Adejumobi; Contee 24,
+1PanCong,Spingarn,Joel,United States,"Professor, Columbia University
+",Adejumobi; Contee 24,
 1PanCong,Van Overgergh,,Belgium,Belgian Peace Commission,The Pan-African Congress: A Report,
 1PanCong,Walling,William E.,United States,,Geiss The Pan-African Movement 238,
